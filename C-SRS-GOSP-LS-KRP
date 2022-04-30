@@ -12,14 +12,28 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 <channels>
 <channel>
-<name>[COLOR white][B]A Bíblia (2021)[/B][/COLOR]</name>
+<name>[COLOR white][B]A Biblia - Mini-Serie (2021) - COMPLETA[/B][/COLOR]</name>
+<externallink>https://raw.githubusercontent.com/GU712/A1L-GOSP-LS-KRP/main/C2-SRS-A.Biblia-Miniserie-KRP</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/d4534PgDNoBpls14K8fvfzm2jhV.jpg</fanart>
+<info>Assista a série A Biblia - Mini-Serie. 
+[COLOR orange][B]GOSPEL[/B][/COLOR]
+[COLOR orange][B]01 TEMP - 10 EPs[/B][/COLOR]
+[COLOR orange][B]ANO - 2021[/B][/COLOR]</info>
+</channel>
+</channels>
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+channels>
+<channel>
+<name>[COLOR white][B]A Bíblia - Record (2021)[/B][/COLOR]</name>
 <externallink>https://raw.githubusercontent.com/GU712/A1L-GOSP-LS-KRP/main/C2-SRS-A.Biblia-KRP</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/HiKSLnpZTtoVNI2MCaMl0SRJpU.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/d4534PgDNoBpls14K8fvfzm2jhV.jpg</fanart>
 <info>Assista a série A Bíblia. 
 [COLOR orange][B]GOSPEL[/B][/COLOR]
-[COLOR orange][B]01 TEMPS - 89 EPs[/B][/COLOR]
-[COLOR orange][B]ANOS - 2021[/B][/COLOR]</info>
+[COLOR orange][B]01 TEMPS - 79 EPs[/B][/COLOR]
+[COLOR orange][B]ANO - 2021[/B][/COLOR]</info>
 </channel>
 </channels>
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
