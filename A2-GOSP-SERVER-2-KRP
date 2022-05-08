@@ -4,13 +4,10 @@ LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
 		
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]NUMERAL[/B][/COLOR]
-LINKDOFILME		
+LINKDOFILME			
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
 #EXTINF:-1 tvg-logo="http://ccdn.ai:80/images/9a58a2f2fa17a4f4e3d6db77a9560536.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]90 Minutos no Paraíso[/B][/COLOR]
@@ -65,7 +62,8 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 http://b5.vc:80/movie/elaine123/123elaine/48170.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "C"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> C[/B][/COLOR]
+LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/sAOFFWAxho3NmJlrJL9V8v9gT8q_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Cartas Para Deus[/B][/COLOR]
@@ -76,23 +74,9 @@ http://b5.vc:80/movie/elaine123/123elaine/110811.mp4
 http://b5.vc:80/movie/elaine123/123elaine/108283.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "D"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> D[/B][/COLOR]
+LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX 	
-
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/yNWQ921ypzkzYRSRBU795OoKdDc_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Deixados para Trás[/B][/COLOR]
-http://b5.vc:80/movie/elaine123/123elaine/93623.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/qSXPrBoNQhBizgqaBwxqgVlp39z_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Deixados para Trás 2 - Comando Tribulação[/B][/COLOR]
-http://b5.vc:80/movie/elaine123/123elaine/93624.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/y0sZlyEBX1SeNonM4FrC9mvD59K_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Deixados para Trás 3 - Mundo em Guerra[/B][/COLOR]
-http://b5.vc:80/movie/elaine123/123elaine/93625.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBN2K6HXXuqJvRTRltS1GyJo9nR_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Deixados para Trás - A Nova Geração[/B][/COLOR]
-http://b5.vc:80/movie/elaine123/123elaine/93626.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/f9whWUktQSg3kdM7xg6HJ6PnoJR_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Deus Nao Esta Morto 1[/B][/COLOR]
-http://b5.vc:80/movie/elaine123/123elaine/21522.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/kqGmmXRpCsseGl6DA5irIkDNacg_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Deus Nao Esta Morto 2[/B][/COLOR]
-http://b5.vc:80/movie/elaine123/123elaine/21520.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/rMWOo7Y0ntOkNuMk2svZxkoRb29_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Deus Nao Esta Morto 3[/B][/COLOR]
-http://b5.vc:80/movie/elaine123/123elaine/21521.mp4
 
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/7g0x8sdh0ZN6zBbt1CpUi9VMHmU_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]David Vs Golias - A Batalha da Fe[/B][/COLOR]
 http://b5.vc:80/movie/elaine123/123elaine/21518.mp4
@@ -100,7 +84,8 @@ http://b5.vc:80/movie/elaine123/123elaine/21518.mp4
 http://b5.vc:80/movie/elaine123/123elaine/21519.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "E"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> E[/B][/COLOR]
+LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 			
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/us0PA2kaOZjOXLjJifIz9EXFGiC_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Emblema da Fe[/B][/COLOR]
@@ -121,7 +106,8 @@ LETRA "F"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "G"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> G[/B][/COLOR]
+LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 #EXTINF:-1 tvg-logo="http://x00.so:80/images/qQbgKemaOkv4aLPEFCqTQZMmXxJ_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Graça e Perdão[/B][/COLOR]
@@ -134,14 +120,16 @@ LETRA "H"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "I"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> I[/B][/COLOR]
+LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 #EXTINF:-1 tvg-logo="http://x00.so:80/images/5BLkarlSyLhGdRsYym6RS7Y8agZ_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Inabalável: A Trajetória de Amy Newhouse[/B][/COLOR]
 http://b5.vc:80/movie/elaine123/123elaine/111589.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "J"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> J[/B][/COLOR]
+LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 #EXTINF:-1 tvg-logo="http://ccdn.ai:80/images/69a5690008e5c3014a45fa7f6d6843b6.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Jesus - A História do Nascimento[/B][/COLOR]
@@ -150,28 +138,22 @@ http://b5.vc:80/movie/elaine123/123elaine/120663.mp4
 http://b5.vc:80/movie/elaine123/123elaine/48187.mp4
 #EXTINF:-1 tvg-logo="http://x00.so:80/images/x9dsOE4M2lrkDAJu0fg0rQW8heq_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]José e Maria[/B][/COLOR]
 http://b5.vc:80/movie/elaine123/123elaine/110778.mp4 
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/zSsIs2zldC25pFlCHM7UOqNCYzu_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Jesus De Nazare 1[/B][/COLOR]
-http://b5.vc:80/movie/elaine123/123elaine/21525.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/zSsIs2zldC25pFlCHM7UOqNCYzu_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Jesus De Nazare 2[/B][/COLOR]
-http://b5.vc:80/movie/elaine123/123elaine/21526.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/zSsIs2zldC25pFlCHM7UOqNCYzu_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Jesus De Nazare 3[/B][/COLOR]
-http://b5.vc:80/movie/elaine123/123elaine/21527.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/zSsIs2zldC25pFlCHM7UOqNCYzu_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Jesus De Nazare 4[/B][/COLOR]
-http://b5.vc:80/movie/elaine123/123elaine/21528.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA "K"				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "L"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> L[/B][/COLOR]
+LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/41bE4D3cbBkmO3cC6c36SthV8ZD_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Lutero[/B][/COLOR]
 http://b5.vc:80/movie/elaine123/123elaine/21024.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "M"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> M[/B][/COLOR]
+LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/6K0nZy7ZgW1RttcNrkLPQLnudT8_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Maria Madalena[/B][/COLOR]
@@ -188,13 +170,10 @@ http://b5.vc:80/movie/elaine123/123elaine/21038.mp4
 http://b5.vc:80/movie/elaine123/123elaine/110786.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "N"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> N[/B][/COLOR]
+LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 			
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/l1XGiS2tXIR4IP4bdqdmlG6Hhbd_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Nada a Perder[/B][/COLOR]
-http://b5.vc:80/movie/elaine123/123elaine/21047.mp4
-#EXTINF:-1 tvg-logo="http://b5.vc:80/images/2UESbGhUBez8iu4CqVhhmpIueJh_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Nada A Perder 2[/B][/COLOR]
-http://b5.vc:80/movie/elaine123/123elaine/31423.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/nVdsXW3oJKBCMpNVZcg8teCk0cS_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Noe[/B][/COLOR]
 http://b5.vc:80/movie/elaine123/123elaine/21531.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/jqp5jyC0L2QCaz4L7uEm1jHUD3i_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Nosso Lar[/B][/COLOR]
@@ -202,7 +181,8 @@ http://b5.vc:80/movie/elaine123/123elaine/21051.mp4
 
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "O"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> O[/B][/COLOR]
+LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/3V1S3j05kV5YqDEL2qyVFIy1x3m_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]O Ceu e de Verdade[/B][/COLOR]
@@ -249,7 +229,8 @@ http://b5.vc:80/movie/elaine123/123elaine/104360.mp4
 http://b5.vc:80/movie/elaine123/123elaine/21112.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "P"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> P[/B][/COLOR]
+LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/orUWQfKkbpPEiFKajgVKhY1d1JK_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Papa Francisco - Um Homem de Palavra[/B][/COLOR]
@@ -262,14 +243,16 @@ http://b5.vc:80/movie/elaine123/123elaine/21537.mp4
 http://b5.vc:80/movie/elaine123/123elaine/110746.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "Q"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> Q[/B][/COLOR]
+LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/kyssvvCXc13c9VC7QTWjRo12FyE_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Quarto de Guerra[/B][/COLOR]
 http://b5.vc:80/movie/elaine123/123elaine/21538.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "R"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> R[/B][/COLOR]
+LINKDOFILME				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 				
 #EXTINF:-1 tvg-logo="http://x00.so:80/images/lsXBRuNur2PLFiEAZ23FR9cKAaS_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Resgatados Pela Graça[/B][/COLOR]
@@ -278,7 +261,8 @@ http://b5.vc:80/movie/elaine123/123elaine/110747.mp4
 http://b5.vc:80/movie/elaine123/123elaine/110781.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "S"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> S[/B][/COLOR]
+LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/8FCkStF9Cy3o5TtV4jBAZqA2qYF_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Sansao[/B][/COLOR]
@@ -287,14 +271,16 @@ http://b5.vc:80/movie/elaine123/123elaine/20227.mp4
 http://b5.vc:80/movie/elaine123/123elaine/26150.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "T"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> T[/B][/COLOR]
+LINKDOFILME				
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 #EXTINF:-1 tvg-logo="http://x00.so:80/images/mkUNQLnO4r1Dc2tj7lIbEAziFs2_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Talento e Fé[/B][/COLOR]
 http://b5.vc:80/movie/elaine123/123elaine/111599.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "U"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> U[/B][/COLOR]
+LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX	
 			
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/tjffZ7ZK4TwUaFdqjfl7qQor1uZ_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Uma Batalha de Fé[/B][/COLOR]
@@ -303,10 +289,7 @@ http://b5.vc:80/movie/elaine123/123elaine/43819.mp4
 http://b5.vc:80/movie/elaine123/123elaine/40574.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/35HFXkITwmVAXUZf9UWPZ6zedBO_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Uma Licao de Vida (2010)[/B][/COLOR]
 http://b5.vc:80/movie/elaine123/123elaine/108304.mp4
-#EXTINF:-1 tvg-logo="http://x00.so:80/images/lf2X2jNWdoneJtBdmg0erkIMX5L_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Uma Prova De Fé[/B][/COLOR]
-http://b5.vc:80/movie/elaine123/123elaine/110782.mp4
-#EXTINF:-1 tvg-logo="http://x00.so:80/images/tioEO1VMDKqrqM8EjFf1sGxZq9d_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Uma Prova de Fé 2: Voltando para Casa[/B][/COLOR]
-http://b5.vc:80/movie/elaine123/123elaine/110783.mp4
+
 #EXTINF:-1 tvg-logo="http://ccdn.ai:80/images/c59bc24d99787e330962b36e6248b36e.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Uma Questao de Fe[/B][/COLOR]
 http://b5.vc:80/movie/elaine123/123elaine/21194.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/4PnbxvF0Znk1sIh6q1MyI1uEr2L_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Uma Vida com Proposito[/B][/COLOR]
@@ -315,7 +298,8 @@ http://b5.vc:80/movie/elaine123/123elaine/21539.mp4
 http://b5.vc:80/movie/elaine123/123elaine/111600.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-LETRA "V"				
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]LETRA -> V[/B][/COLOR]
+LINKDOFILME					
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/7FZ5f4lLgRzojgEqv3MIlTh7QhW_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Você Acredita?[/B][/COLOR]
@@ -340,7 +324,54 @@ LETRA "Z"
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX				
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]DEIXADOS PARA TRÁS[/B][/COLOR]
+LINKDOFILME	
 
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/yNWQ921ypzkzYRSRBU795OoKdDc_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Deixados para Trás[/B][/COLOR]
+http://b5.vc:80/movie/elaine123/123elaine/93623.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/qSXPrBoNQhBizgqaBwxqgVlp39z_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Deixados para Trás 2 - Comando Tribulação[/B][/COLOR]
+http://b5.vc:80/movie/elaine123/123elaine/93624.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/y0sZlyEBX1SeNonM4FrC9mvD59K_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Deixados para Trás 3 - Mundo em Guerra[/B][/COLOR]
+http://b5.vc:80/movie/elaine123/123elaine/93625.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/jBN2K6HXXuqJvRTRltS1GyJo9nR_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Deixados para Trás - A Nova Geração[/B][/COLOR]
+http://b5.vc:80/movie/elaine123/123elaine/93626.mp4
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]DEUS NÃO ESTA MORTO[/B][/COLOR]
+LINKDOFILME	
+
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/f9whWUktQSg3kdM7xg6HJ6PnoJR_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Deus Nao Esta Morto 1[/B][/COLOR]
+http://b5.vc:80/movie/elaine123/123elaine/21522.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/kqGmmXRpCsseGl6DA5irIkDNacg_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Deus Nao Esta Morto 2[/B][/COLOR]
+http://b5.vc:80/movie/elaine123/123elaine/21520.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/rMWOo7Y0ntOkNuMk2svZxkoRb29_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Deus Nao Esta Morto 3[/B][/COLOR]
+http://b5.vc:80/movie/elaine123/123elaine/21521.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]JESSUS DE NAZARÉ[/B][/COLOR]
+LINKDOFILME	
+
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/zSsIs2zldC25pFlCHM7UOqNCYzu_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Jesus De Nazare 1[/B][/COLOR]
+http://b5.vc:80/movie/elaine123/123elaine/21525.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/zSsIs2zldC25pFlCHM7UOqNCYzu_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Jesus De Nazare 2[/B][/COLOR]
+http://b5.vc:80/movie/elaine123/123elaine/21526.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/zSsIs2zldC25pFlCHM7UOqNCYzu_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Jesus De Nazare 3[/B][/COLOR]
+http://b5.vc:80/movie/elaine123/123elaine/21527.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/zSsIs2zldC25pFlCHM7UOqNCYzu_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Jesus De Nazare 4[/B][/COLOR]
+http://b5.vc:80/movie/elaine123/123elaine/21528.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]NADA A PERDER[/B][/COLOR]
+LINKDOFILME	
+
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/l1XGiS2tXIR4IP4bdqdmlG6Hhbd_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Nada a Perder[/B][/COLOR]
+http://b5.vc:80/movie/elaine123/123elaine/21047.mp4
+#EXTINF:-1 tvg-logo="http://b5.vc:80/images/2UESbGhUBez8iu4CqVhhmpIueJh_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Nada A Perder 2[/B][/COLOR]
+http://b5.vc:80/movie/elaine123/123elaine/31423.mp4
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]UMA PROVA DE FÉ[/B][/COLOR]
+LINKDOFILME	
+
+#EXTINF:-1 tvg-logo="http://x00.so:80/images/lf2X2jNWdoneJtBdmg0erkIMX5L_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Uma Prova De Fé[/B][/COLOR]
+http://b5.vc:80/movie/elaine123/123elaine/110782.mp4
+#EXTINF:-1 tvg-logo="http://x00.so:80/images/tioEO1VMDKqrqM8EjFf1sGxZq9d_big.jpg" group-title="[COLOR white][B] COLEÇÃO FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Uma Prova de Fé 2: Voltando para Casa[/B][/COLOR]
+http://b5.vc:80/movie/elaine123/123elaine/110783.mp4
 
 
