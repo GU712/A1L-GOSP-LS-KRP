@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6HxrS69/SRS-SERV-1.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] FILMES GOSPEL - SERVER 2 [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="http://ccdn.ai:80/images/98e06e78a67fddc7dd9494925bffd674.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Orações Para Bobby[/B][/COLOR]
@@ -206,7 +206,7 @@ http://b5.vc:80/movie/elaine123/123elaine/20305.mp4
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/8FCkStF9Cy3o5TtV4jBAZqA2qYF_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Sansao[/B][/COLOR]
 http://b5.vc:80/movie/elaine123/123elaine/20227.mp4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] SÉRIES GOSPEL [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MSkYQXM/CINEGOSPEL-FLMS-ICON.png" group-title="[COLOR white][B] SÉRIES GOSPEL - SERVER 2 [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="http://b5.vc:80/images/8FCkStF9Cy3o5TtV4jBAZqA2qYF_big.jpg" group-title="[COLOR white][B] FILMES GOSPEL [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Sansao[/B][/COLOR]
