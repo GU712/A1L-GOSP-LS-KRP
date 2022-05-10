@@ -2,9 +2,8 @@
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6wZwBb4/CINEGOSPEL-SRS-ICON.png" group-title="[COLOR orange][B] SELECIONE UM ITEM ABAIXO[/B][/COLOR]",[COLOR black].[/COLOR]
 LINKDOFILME
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B] LETRA [COLOR yellow]->[COLOR orange] A[/B][/COLOR]",[COLOR black].[/COLOR]
-LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA A
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg" group-title="[COLOR white][B] A Bíblia [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
@@ -195,8 +194,7 @@ http://b5.vc:80/series/elaine123/123elaine/157103.mp4
 http://b5.vc:80/series/elaine123/123elaine/157104.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B] LETRA [COLOR yellow]->[COLOR orange] J[/B][/COLOR]",[COLOR black].[/COLOR]
-LINKDOFILME
+LETRA J
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rVWLZd5wnK0c6RSU3hstPpwXLwk.jpg" group-title="[COLOR white][B] Jesus [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
@@ -592,10 +590,139 @@ http://b5.vc:80/series/elaine123/123elaine/157856.mkv
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rVWLZd5wnK0c6RSU3hstPpwXLwk.jpg" group-title="[COLOR white][B] Jesus [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Jesus T01E193[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/157857.mkv
 
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA M
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E01[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30926.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E02[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30927.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E03[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30928.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E04[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30929.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E05[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30930.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E06[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30931.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E07[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30932.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E08[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30933.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E09[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30934.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E10[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30935.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E11[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30936.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E12[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30937.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E13[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30938.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E14[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30939.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E15[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30940.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E16[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30941.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E17[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30942.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E18[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30943.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E19[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30944.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E20[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30945.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E21[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30946.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E22[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30947.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E23[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30948.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E24[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30949.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E25[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30950.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E26[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30951.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E27[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30952.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E28[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30953.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E29[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30954.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E30[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30955.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E31[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30956.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E32[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30957.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E33[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30958.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E34[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30959.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E35[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30960.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E36[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30961.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E37[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30962.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E38[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30963.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E39[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30964.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E40[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30965.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E41[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30966.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E42[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30967.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E43[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30968.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E44[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30969.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E45[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30970.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E46[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30971.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E47[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30972.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E48[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30973.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E49[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30974.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E50[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30975.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E51[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30976.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E52[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30977.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E53[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30978.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E54[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30979.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E55[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30980.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E56[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30981.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E57[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30982.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E58[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30983.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E59[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30984.mp4
+#EXTINF:-1 tvg-logo="https://tinyurl.com/mariamadalena-srs" group-title="[COLOR white][B] María Madalena [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]María Madalena T01E60[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/30985.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B] LETRA [COLOR yellow]->[COLOR orange] O[/B][/COLOR]",[COLOR black].[/COLOR]
-LINKDOFILME
+LETRA O
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nSqRpzS8IUxNWITSjntZDcQMl6T.jpg" group-title="[COLOR white][B] Os Dez Mandamentos [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
@@ -1093,9 +1220,8 @@ http://b5.vc:80/series/elaine123/123elaine/41186.mp4
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nSqRpzS8IUxNWITSjntZDcQMl6T.jpg" group-title="[COLOR white][B] Os Dez Mandamentos [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Os Dez Mandamentos T02E66[/B][/COLOR]
 http://b5.vc:80/series/elaine123/123elaine/41187.mp4
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Wc1fvqF/SRS-SERV-2.png" group-title="[COLOR orange][B] LETRA [COLOR yellow]->[COLOR orange] R[/B][/COLOR]",[COLOR black].[/COLOR]
-LINKDOFILME
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+LETRA R
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/w220_and_h330_face/jzvSPpDGeYYZGGhuJVyc3RBfMHI.jpg" group-title="[COLOR white][B] Reis [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
