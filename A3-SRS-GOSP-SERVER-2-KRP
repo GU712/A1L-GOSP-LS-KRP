@@ -9,9 +9,6 @@ XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg" group-title="[COLOR white][B] A Bíblia [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
 LINKDOFILME
 
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg" group-title="[COLOR white][B] A Bíblia [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
-LINKDOFILME
-
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg" group-title="[COLOR white][B] A Bíblia [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/qbzGLgO5WBwozGbOaTWALKiTXq9.jpg" group-title="[COLOR white][B] A Bíblia [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Bíblia T01E01[/B][/COLOR]
@@ -194,13 +191,374 @@ http://b5.vc:80/series/elaine123/123elaine/157103.mp4
 http://b5.vc:80/series/elaine123/123elaine/157104.mp4
 
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
+LINKDOFILME
+
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E01[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118444.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E02[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118445.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E03[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118446.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E04[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118447.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E05[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118448.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E06[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118449.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E07[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118450.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E08[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118451.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E09[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118452.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E10[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118453.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E11[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118454.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E12[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118455.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E13[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118456.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E14[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118457.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E15[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118458.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E16[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118459.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E17[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118460.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E18[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118461.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E19[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118462.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E20[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118463.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E21[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118464.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E22[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118465.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E23[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118466.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E24[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118467.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E25[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118468.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E26[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118469.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E27[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118470.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E28[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118471.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E29[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118472.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E30[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118473.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E31[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118474.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E32[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118475.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E33[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118476.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E34[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118477.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E35[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118478.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E36[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118479.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E37[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118480.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E38[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118481.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E39[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118482.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E40[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118483.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E41[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118484.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E42[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118485.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E43[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118486.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E44[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118487.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E45[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118488.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E46[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118489.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E47[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118490.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E48[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118491.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E49[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118492.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E50[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118493.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E51[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118494.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E52[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118495.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E53[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118496.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E54[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118497.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E55[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118498.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E56[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118499.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E57[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118500.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E58[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118501.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E59[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118502.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E60[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118503.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E61[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118504.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E62[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118505.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E63[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118506.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E64[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118507.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E65[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118508.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E66[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118509.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E67[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118510.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E68[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118511.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E69[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118512.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E70[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118513.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E71[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118514.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E72[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118515.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E73[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118516.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E74[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118517.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E75[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118518.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E76[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118519.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E77[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118520.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E78[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118521.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E79[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118522.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E80[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118523.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E81[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118524.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E82[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118525.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E83[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118526.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E84[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118527.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E85[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118528.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E86[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118529.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E87[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118530.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E88[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118531.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E89[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118532.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E90[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118533.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E91[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118534.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E92[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118535.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E93[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118536.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E94[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118537.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E95[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118538.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E96[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118539.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E97[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118540.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E98[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118541.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E99[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118542.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E100[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118543.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E101[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118544.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E102[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118545.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E103[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118546.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E104[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118547.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E105[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118548.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E106[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118549.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E107[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118550.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E108[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118551.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E109[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118552.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E110[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118553.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E111[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118554.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E112[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118555.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E113[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118556.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E114[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118557.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E115[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118558.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E116[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118559.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E117[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118560.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E118[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118561.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E119[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118562.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E120[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118563.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E121[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118564.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E122[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118565.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E123[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118566.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E124[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118567.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E125[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118568.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E126[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118569.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E127[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118570.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E128[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118571.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E129[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118572.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E130[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118573.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E131[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118574.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E132[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118575.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E133[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118576.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E134[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118577.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E135[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118578.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E136[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118579.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E137[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118580.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E138[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118581.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E139[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118582.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E140[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118583.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E141[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118584.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E142[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118585.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E143[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118586.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E144[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118587.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E145[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118588.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E146[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118589.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E147[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118590.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E148[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118591.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E149[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118592.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E150[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118593.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E151[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118594.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E152[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118595.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E153[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118596.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E154[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118597.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E155[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118598.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E156[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118599.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E157[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118600.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E158[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118601.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E159[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118602.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E160[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118603.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E161[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118604.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E162[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118605.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E163[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118606.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E164[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118607.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E165[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118608.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E166[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118609.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E167[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118610.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E168[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118611.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E169[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118612.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E170[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118613.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E171[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118614.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E172[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118615.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E173[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118616.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E174[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118617.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E175[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118618.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E176[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118619.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E177[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118620.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E178[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118621.mp4
+#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/ciY0RaYIzKwt2nEQfVAXJyoxv3c.jpg" group-title="[COLOR white][B] A Terra Prometida [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]A Terra Prometida - T01E179[/B][/COLOR]
+http://b5.vc:80/series/elaine123/123elaine/118622.mp4
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 LETRA J
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rVWLZd5wnK0c6RSU3hstPpwXLwk.jpg" group-title="[COLOR white][B] Jesus [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rVWLZd5wnK0c6RSU3hstPpwXLwk.jpg" group-title="[COLOR white][B] Jesus [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/rVWLZd5wnK0c6RSU3hstPpwXLwk.jpg" group-title="[COLOR white][B] Jesus [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Jesus T01E01[/B][/COLOR]
@@ -726,9 +1084,6 @@ LETRA O
 XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nSqRpzS8IUxNWITSjntZDcQMl6T.jpg" group-title="[COLOR white][B] Os Dez Mandamentos [/B][/COLOR]",[COLOR orange][B]SELECIONE UM ITEM ABAIXO[/B][/COLOR]
-LINKDOFILME
-
-#EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nSqRpzS8IUxNWITSjntZDcQMl6T.jpg" group-title="[COLOR white][B] Os Dez Mandamentos [/B][/COLOR]",[COLOR orange][B]TEMP 01[/B][/COLOR]
 LINKDOFILME
 
 #EXTINF:-1 tvg-logo="https://www.themoviedb.org/t/p/original/nSqRpzS8IUxNWITSjntZDcQMl6T.jpg" group-title="[COLOR white][B] Os Dez Mandamentos [/B][/COLOR]",[COLOR orange][B]SERVER 2 [COLOR yellow]-> [COLOR white]Os Dez Mandamentos T01E01[/B][/COLOR]
